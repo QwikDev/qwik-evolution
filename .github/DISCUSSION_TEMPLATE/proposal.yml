@@ -1,0 +1,22 @@
+labels: ["Proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # New Proposal
+
+       
+  - type: textarea
+    id: content
+    attributes:
+      label: Body
+      value: |
+        # Add markdown here
+
+        
+  - type: markdown
+    attributes:
+      value: |
+        More context
+    validations:
+      required: true
