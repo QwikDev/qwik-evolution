@@ -3,10 +3,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        # New Proposal
-
-        Please follow the template below. 
-        
         The more details you can add the better the chances this proposal will get accepted.
        
   - type: input
@@ -22,21 +18,34 @@ body:
       description: please describe the problems / goals
       value: |
         
-        ## Problems you are trying to solve:
+        ### Problems you are trying to solve:
         * 
         * 
 
-        ## Goals you are trying to achieve:
+        ### Goals you are trying to achieve:
         * 
         * 
         
-        ## Any other context or information you want to share:
+        ### Any other context or information you want to share:
 
   - type: textarea
     id: proposed-solution
     attributes:
       label: Proposed Solution / Feature
       description: Please describe the solution you have in mind. Include code examples if relevant.
+      value: |
+        
+        ### Description
+
+
+
+        ### Code examples
+
+        ``` 
+      
+        ```
+
+        
       
         
         
