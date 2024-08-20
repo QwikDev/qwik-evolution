@@ -37,7 +37,7 @@ body:
     attributes:
       label: Proposed Solution / Feature
       description: Please describe the solution you have in mind. Include code examples if relevant.
-      value: |
+      
         
         
   - type: textarea
@@ -45,5 +45,5 @@ body:
     attributes:
       label: Links / References
       description: Please include reference links if there are any
-      value: |
+     
             
