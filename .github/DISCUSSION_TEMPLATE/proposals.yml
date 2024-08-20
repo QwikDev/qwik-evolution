@@ -12,26 +12,38 @@ body:
   - type: input
     id: has-id
     attributes:
-      label: What is it
-      description: Please provide a short title for this proposal.
+      label: What is it about?
+      description: In one sentence, what's the summary of the proposal (ignore if it's the same as the title) 
 
   - type: textarea
-    id: content
+    id: motivation
     attributes:
-      label: Body
-      description: template
+      label: What's the motivation for this proposal?
+      description: please describe the problems / goals
       value: |
-        # What is it about?
-
-        Please try to summarize this proposal into one sentence. 
-
-        # What is the motivation for it?
-
-
         
-  - type: markdown
+        ## Problems you are trying to solve:
+        * 
+        * 
+
+        ## Goals you are trying to achieve:
+        * 
+        * 
+        
+        ## Any other context or information you want to share:
+
+  - type: textarea
+    id: proposed-solution
     attributes:
+      label: Proposed Solution / Feature
+      description: Please describe the solution you have in mind. Include code examples if relevant.
       value: |
-        More context
-    validations:
-      required: true
+        
+        
+  - type: textarea
+    id: reference
+    attributes:
+      label: Links / References
+      description: Please include reference links if there are any
+      value: |
+            
