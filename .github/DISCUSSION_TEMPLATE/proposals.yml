@@ -18,15 +18,15 @@ body:
       description: please describe the problems / goals
       value: |
         
-        ### Problems you are trying to solve:
+        #### Problems you are trying to solve:
         * 
         * 
 
-        ### Goals you are trying to achieve:
+        #### Goals you are trying to achieve:
         * 
         * 
         
-        ### Any other context or information you want to share:
+        #### Any other context or information you want to share:
 
   - type: textarea
     id: proposed-solution
@@ -34,12 +34,11 @@ body:
       label: Proposed Solution / Feature
       description: Please describe the solution you have in mind. Include code examples if relevant.
       value: |
-        
-        ### Description
+        #### What do you propose?
 
 
 
-        ### Code examples
+        #### Code examples
 
         ``` 
       
