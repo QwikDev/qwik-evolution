@@ -17,6 +17,7 @@ body:
       label: What's the motivation for this proposal?
       description: please describe the problems / goals
       value: |
+        ---
         
         #### Problems you are trying to solve:
         * 
@@ -27,6 +28,9 @@ body:
         * 
         
         #### Any other context or information you want to share:
+          
+
+        ---
 
   - type: textarea
     id: proposed-solution
@@ -44,10 +48,9 @@ body:
       
         ```
 
-        
-      
-        
-        
+
+        ---
+
   - type: textarea
     id: reference
     attributes:
