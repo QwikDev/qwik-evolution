@@ -5,13 +5,28 @@ body:
       value: |
         # New Proposal
 
+        Please follow the template below. 
+        
+        The more details you can add the better the chances this proposal will get accepted.
        
+  - type: input
+    id: has-id
+    attributes:
+      label: What is it
+      description: Please provide a short title for this proposal.
+
   - type: textarea
     id: content
     attributes:
       label: Body
+      description: template
       value: |
-        # Add markdown here
+        # What is it about?
+
+        Please try to summarize this proposal into one sentence. 
+
+        # What is the motivation for it?
+
 
         
   - type: markdown
