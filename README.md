@@ -51,7 +51,7 @@ Core team member
 The RFC related Pull requests should be reviewed and fully tested before 
 
 **Who can create it?**
-Any contributor can help with the implementation of the RFC
+Any contributor can help with the implementation of the RFC, with coordination with the core team
 
 **Checklist for approving the implementation** 
 - [x] At least 2 reviewers from the core team
