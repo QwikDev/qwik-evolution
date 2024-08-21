@@ -24,9 +24,9 @@ Anyone from the Qwik community can create a new proposal.
 Create a [proposal discussion using the suggested template](https://github.com/QwikDev/qwik-evolution/discussions/new?category=proposals)
 
 **Checklist for becoming a "RFC Issue"** 
-- [ ] Detailed and well articulated Proposal
-- [ ] Accepted via a Core leadership team vote
-- [ ] Has at least one champion from the core team
+- [x] Detailed and well articulated Proposal
+- [x] Accepted via a Core leadership team vote
+- [x] Has at least one champion from the core team
 
 .
 
@@ -40,9 +40,9 @@ An RFC is led by champions from the Core team but the original proposal submitte
 Core team member
 
 **Checklist for advancing to the review stage** 
-- [ ] Full implementation of the proposal
-- [ ] All the changes are covered by tests
-- [ ] No unresolved critical discussions left on the issue
+- [x] Full implementation of the proposal
+- [X] All the changes are covered by tests
+- [x] No unresolved critical discussions left on the issue
 
 .
 
@@ -54,8 +54,8 @@ The RFC related Pull requests should be reviewed and fully tested before
 Any contributor can help with the implementation of the RFC
 
 **Checklist for approving the implementation** 
-- [ ] At least 2 reviewers from the core team
-- [ ] The necessary documentation for the feature / change is added
+- [x] At least 2 reviewers from the core team
+- [x] The necessary documentation for the feature / change is added
 
 
 .
@@ -65,7 +65,7 @@ Any contributor can help with the implementation of the RFC
 The PR is merged and is released under either a feature flag or a special alpha version.
 
 **Checklist for releasing it as stable** 
-- [ ] A period of at least 30 days of testing with community partners to gather feedback and fix bugs
+- [x] A period of at least 30 days of testing with community partners to gather feedback and fix bugs
 
 .
 
@@ -79,4 +79,4 @@ Oh happy days! 😊🎉
 
 #### Credit
 
-This process was design after taking inspiration from other great projects like: TC39, Astro, Ember.
+This process was design after taking inspiration from other great processes like: [TC39](https://github.com/tc39/proposals), [Astro](https://github.com/withastro/roadmap), [Ember](https://github.com/emberjs/rfcs).
