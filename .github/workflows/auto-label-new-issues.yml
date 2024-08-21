@@ -1,0 +1,20 @@
+name: Auto Label New Issues
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Label the new issue
+      uses: actions-ecosystem/action-add-labels@v1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        labels: |
+          [STAGE-2] incomplete implementation
+          [STAGE-2] not fully covered by tests yet
+          [STAGE-2] unresolved discussions left
