@@ -50,5 +50,5 @@ body:
   - type: textarea
     id: reference
     attributes:
-      label: Links / References
-      description: Please include reference links if there are any
+      label: PRs/ Links / References
+      description: Please include any relveant PRs or reference links
