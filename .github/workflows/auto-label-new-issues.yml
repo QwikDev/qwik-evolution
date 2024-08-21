@@ -18,3 +18,5 @@ jobs:
           [STAGE-2] incomplete implementation
           [STAGE-2] not fully covered by tests yet
           [STAGE-2] unresolved discussions left
+          [STAGE-3] docs changes not added yet
+          [STAGE-3] missing 2 reviews for RFC PRs
