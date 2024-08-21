@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "STAGE 1 - Proposal"
+    url: https://github.com/QwikDev/qwik-evolution/discussions/new?category=proposals
+    about: "Create a new proposal for a feature or a change in Qwik"

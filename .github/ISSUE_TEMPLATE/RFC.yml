@@ -1,0 +1,54 @@
+name: STAGE 2 - RFC Issue (Core Team Only)
+description:  An official RFC (Request for Comments) issue about a new feature or change to Qwik.
+title: 'RFC: '
+body:
+  - type: input
+    id: champion
+    attributes:
+      label: Champion
+      description: Please @mention the person from the core team who'll champion this RFC.
+  - type: textarea
+    id: motivation
+    attributes:
+      label: What's the motivation for this proposal?
+      description: please describe the problems / goals
+      value: |
+        #### Problems you are trying to solve:
+        * 
+        * 
+
+        #### Goals you are trying to achieve:
+        * 
+        * 
+        
+        #### Any other context or information you want to share:
+        
+
+
+
+        ---
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution / Feature
+      description: Please describe the solution you have in mind. Include code examples if relevant.
+      value: |
+        #### What do you propose?
+
+
+
+        #### Code examples
+
+        ``` 
+      
+        ```
+
+
+        ---
+
+  - type: textarea
+    id: reference
+    attributes:
+      label: Links / References
+      description: Please include reference links if there are any
