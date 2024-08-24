@@ -84,4 +84,4 @@ Oh happy days! 😊🎉
 
 #### Credit
 
-This process was design after taking inspiration from other great processes like: [TC39](https://github.com/tc39/proposals), [Astro](https://github.com/withastro/roadmap), [Ember](https://github.com/emberjs/rfcs).
+This process was inspired by: [TC39](https://github.com/tc39/proposals), [Astro](https://github.com/withastro/roadmap), [Ember](https://github.com/emberjs/rfcs).
