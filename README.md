@@ -10,6 +10,8 @@ A lot of changes like bug fixes and docs updates can be handled by a normal pull
 
 But some changes have a wider effect and require design and discussion to make sure their impact will be positive for the wider Qwik community and will stay true to Qwik's philosophy.
 
+In the Qwik Evolution process, timelines can vary—from days or weeks on urgent matters to much longer for non-urgent but high-value improvements.
+
 ## Qwik RFC Process
 
 
@@ -35,7 +37,7 @@ Create a [proposal discussion using the suggested template](https://github.com/Q
 
 ### STAGE 2 - RFC Issue
 
-A RFC issue is a Github issue that's based on the original proposal discussion.
+An RFC issue is a Github issue that's based on the original proposal discussion.
 This means the implementation exploration can be started and all related PRs should be linked in that issue.
 An RFC is led by champions from the Core team but the original proposal submitter could join as a community champion to provide help / insight / feedback during the exploration process. 
 
