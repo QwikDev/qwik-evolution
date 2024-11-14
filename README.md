@@ -2,6 +2,8 @@
 
 This is the place for new proposals and ideas for the Qwik framework. 
 
+[You can check out the RFCs progress here](https://github.com/orgs/QwikDev/projects/4?query=sort%3Aupdated-desc+is%3Aopen)
+
 ## Introduction
 
 This following outlines the process for proposing, discussing, and implementing new features and substantial changes to the Qwik framework. The goal is to ensure that new features align with Qwik's core values and community needs while maintaining a transparent and collaborative approach.
